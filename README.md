@@ -40,11 +40,11 @@ smartgadgets/
 
 ├── assets/  
 
-│   ├── css/
+├── css/
 
-│   ├── js/
+├── js/
 
-│   └── images/
+│── images/
 │
 ├── front-page.php
 
@@ -59,7 +59,7 @@ smartgadgets/
 ├── page.php
 
 ├── style.css
-│
+
 ├── template-about.php
 
 ├── template-feedback.php
@@ -84,21 +84,21 @@ Follow these steps to run the project on your own system:
 
 - Place the theme folder here:
 
-C:\xampp\htdocs\mini_ecommerce\wp-content\themes\smartgadgets
+  C:\xampp\htdocs\mini_ecommerce\wp-content\themes\smartgadgets
 
 3. Start XAMPP
 
 - Enable:
 
--Apache
+  -Apache
 
--MySQL
+  -MySQL
 
 4. Create a WordPress Database
 
 - Go to:
 
-http://localhost/phpmyadmin
+  http://localhost/phpmyadmin
 
 
 - Create a database (e.g., mini_ecommerce).
@@ -107,18 +107,18 @@ http://localhost/phpmyadmin
 
 - Visit:
 
-http://localhost/mini_ecommerce/
+  http://localhost/mini_ecommerce/
 
 
 - Finish WordPress setup (username, password, site settings).
 
 6. Activate Theme
 
-Dashboard → Appearance → Themes → SmartGadgets
+   Dashboard → Appearance → Themes → SmartGadgets
 
 - Your site will now run at:
 
-http://localhost/mini_ecommerce/
+  http://localhost/mini_ecommerce/
 
 # 🧪 Notes
 
