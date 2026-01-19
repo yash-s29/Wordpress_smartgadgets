@@ -45,7 +45,7 @@ smartgadgets/
 ├── js/
 
 │── images/
-│
+
 ├── front-page.php
 
 ├── header.php
@@ -125,6 +125,7 @@ Follow these steps to run the project on your own system:
 The theme works only when XAMPP (Apache + MySQL) is running, because WordPress requires a PHP server and a database.
 
 For production hosting, you would upload WordPress + this theme to a real server.
+
 
 
 
