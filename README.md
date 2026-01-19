@@ -126,8 +126,6 @@ The theme works only when XAMPP (Apache + MySQL) is running, because WordPress r
 
 For production hosting, you would upload WordPress + this theme to a real server.
 
-# 📬 Contact
 
-If you'd like to improve or extend this theme, feel free to fork this repository or reach out.
 
 
